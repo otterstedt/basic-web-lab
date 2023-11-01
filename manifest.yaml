@@ -1,0 +1,4 @@
+ ---
+ applications:
+ - name: jasper-awesome
+   buildpack: https://github.com/cloudfoundry/staticfile-buildpack
