@@ -1,4 +1,6 @@
 ---
 applications:
 - name: jasper-awesome
+  path: web
+  memory: 10M
   buildpack: https://github.com/cloudfoundry/staticfile-buildpack
